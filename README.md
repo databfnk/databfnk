@@ -1,18 +1,21 @@
 ### Hi there, I am Tabea 🌻
 
-I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East studies.
+I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
 
 - 🌱 I’m currently learning more about advanced Javascript and Functional Programming.
 - 🚀 I want to build more stuff using NEXT.js and Prisma in Typescript.
 - 😄 Pronouns: she/her
 
+
 <br>
-<br>
+
+***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abeatnik&theme=gotham)
 
+***
 
 ![](https://komarev.com/ghpvc/?username=abeatnik&color=yellowgreen&style=flat-square)
 
