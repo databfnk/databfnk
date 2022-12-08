@@ -2,16 +2,16 @@
 
 I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
 
-- 🌱 I’m currently practicing Data Structures and Algorithms.
-- 🚀 I want to build more stuff using NEXT.js and Prisma in Typescript and learn GraphSQL.
+- 🌱 I’m currently deepening my JavaScript skills, learning more about data structures & algorithms and functional programming.
+- 🚀 I can't wait to build more stuff using NEXT.js and Prisma in Typescript and become familiar with GraphSQL.
 - 😄 Pronouns: she/her
 
 <br>
 
-
 <p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://linkedin.com/in/tabea-schneider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabea-schneider" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/abeatnik" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="tabea-schneider" height="30" width="30" /></a> 
 <a href="https://www.hackerrank.com/tabea_k_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tabea_k_s" height="30" width="40" /></a>
 </p>
 
