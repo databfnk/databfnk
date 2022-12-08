@@ -2,8 +2,8 @@
 
 I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
 
-- 🌱 I’m currently learning more about advanced Javascript and Functional Programming.
-- 🚀 I want to build more stuff using NEXT.js and Prisma in Typescript.
+- 🌱 I’m currently practicing Data Structures and Algorithms.
+- 🚀 I want to build more stuff using NEXT.js and Prisma in Typescript and learn GraphSQL.
 - 😄 Pronouns: she/her
 
 <br>
