@@ -22,6 +22,9 @@ I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED 
 
 ***
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars) -->
+![Top Langs](
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abeatnik&theme=gotham)
 
