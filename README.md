@@ -2,7 +2,7 @@
 
 I am a freshly minted Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Angular and Java.
 - 🚀 My next project is in the making! A portfolio page with NEXT.js in Typescript.
 - 😄 Pronouns: she/her
 
