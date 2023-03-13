@@ -1,6 +1,6 @@
 ### Hi there, I am Tabea 🌻
 
-I am a Junir Full Stack Web Developer, and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
+I am a Junir Full Stack Web Developer and a recent graduate of SPICED Academy, with a background in Political Science and Middle East Studies.
 
 - 🌱 I’m currently learning Java.
 - 🚀 My next project is in the making! A portfolio page with NEXT.js in Typescript.
