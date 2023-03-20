@@ -28,8 +28,8 @@ I am a Junior Full Stack Web Developer and a recent graduate of SPICED Academy, 
 ![Top Langs](
 https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard)
 
-<!-- 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abeatnik&theme=gotham) -->
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abeatnik&theme=gotham)
 
 ***
 
