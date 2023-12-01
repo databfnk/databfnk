@@ -1,4 +1,4 @@
-name: Update README ⭐
+name: advent-readme-stars
 on:
   schedule:
     - cron: "51 */4 * * *"  # Every 4 hours
