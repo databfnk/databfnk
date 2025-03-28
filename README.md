@@ -20,7 +20,7 @@ Connect with me:
 ***
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars) -->
 ![Top Langs](
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard,adventOfCode2023,juniper-socialnetwork,juniper-petition)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard,adventOfCode2023,juniper-socialnetwork,juniper-petition,evolution-of-trust,lisp-parser)
 
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abeatnik&theme=gotham)
