@@ -16,11 +16,11 @@ Connect with me:
 ---
 
 ##### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,java,haskell,scala,regex,nextjs,react,nodejs,expressjs,redux,prisma,hibernate,postgresql,mongodb,rabbitmq,git,jest,docker,azure,vscode,vim,grafana&theme=dark&perline=15)]((https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,java,haskell,rust,scala,regex,nextjs,react,nodejs,expressjs,redux,prisma,hibernate,postgresql,mongodb,rabbitmq,redis,kafka,git,jest,docker,azure,vscode,vim,grafana&theme=dark&perline=15)]((https://skillicons.dev))
 ***
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars) -->
 ![Top Langs](
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard,adventOfCode2023,juniper-socialnetwork,juniper-petition)
 
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abeatnik&theme=gotham)
