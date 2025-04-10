@@ -15,6 +15,12 @@ Connect with me:
 
 ---
 
+Recent activity:
+
+![Codecrafters](https://backend.codecrafters.io/progress/dns-server/673a3fce-c8ee-4f6b-9cc2-15b3acf2d0fc)
+
+---
+
 ##### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,java,haskell,rust,scala,regex,nextjs,react,nodejs,expressjs,redux,prisma,hibernate,postgresql,mongodb,rabbitmq,redis,kafka,git,jest,docker,azure,vscode,vim,grafana&theme=dark&perline=15)]((https://skillicons.dev))
 ***
