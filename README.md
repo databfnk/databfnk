@@ -1,6 +1,6 @@
 ### Hi there, I am Tabea!
 
-I am a Software Developer with a keen sense for functional design and the big picture
+I am a Software Engineer with a keen sense for functional design and the big picture
 delivering scalable, data‐driven solutions that balance robustness and user experience
 
 Connect with me:
@@ -26,7 +26,7 @@ Recent activity:
 ***
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars) -->
 ![Top Langs](
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abeatnik&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard,adventOfCode2023,juniper-socialnetwork,juniper-petition,evolution-of-trust,lisp-parser)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=databfnk&layout=compact&bg_color=00000000&exclude_repo=codewars,juniper-imageboard,adventOfCode2023,juniper-socialnetwork,juniper-petition,evolution-of-trust,lisp-parser)
 
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=abeatnik&theme=gotham)
