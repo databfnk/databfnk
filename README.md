@@ -22,7 +22,7 @@ Recent activity:
 ---
 
 ##### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,java,haskell,rust,scala,regex,nextjs,react,nodejs,expressjs,redux,prisma,hibernate,postgresql,mongodb,rabbitmq,redis,kafka,git,jest,docker,azure,vscode,vim,grafana&theme=dark&perline=15)]((https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,haskell,rust,go,scala,java,regex,nextjs,react,nodejs,expressjs,redux,prisma,hibernate,postgresql,mongodb,rabbitmq,redis,kafka,git,jest,docker,azure,vscode,vim,prometheus,grafana&theme=dark&perline=15)]((https://skillicons.dev))
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=databfnk&layout=compact&bg_color=00000000&hide=javascript,css,handlebars,html)
 
